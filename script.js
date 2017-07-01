@@ -1,1 +1,3 @@
-this is js file
+<script>
+
+</script>
